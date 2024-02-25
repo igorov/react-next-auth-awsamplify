@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3awsauthstorage4672f07a",
+  "bucketName": "aws-auth-storage-4672f07a",
+  "policyUUID": "048d3ef2",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
